@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+I'm Patrick and I'm a conservation biologist learning how to use tools like Git. 
+
